@@ -1,0 +1,3 @@
+#!/bin/sh
+./release.sh
+git add dist
